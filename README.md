@@ -50,6 +50,16 @@ curl https://openeventsapi.com/api/v1.0/events \
 - [Updates](https://openeventsapi.com/updates) - User-friendly changelog and updates
 - [FAQ](https://openeventsapi.com/faq) - Frequently asked questions
 
+## Examples & Demos
+
+See the Open Events API in action with these example applications:
+
+| Project | Description | Repository | Live Demo |
+|---------|-------------|------------|-----------|
+| Event Search App | A React-based event search application with filtering, search, and detailed event views | [GitHub](https://github.com/C9Group/event-search-app) | [Demo](https://c9group.github.io/event-search-app/) |
+
+Want to add your project? [Open an issue](https://github.com/C9Group/open-events-api/issues/new) or submit a pull request!
+
 ## Changelog
 
 View the complete changelog: [CHANGELOG.md](./CHANGELOG.md)
