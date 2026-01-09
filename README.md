@@ -4,7 +4,7 @@ Open Events API is a comprehensive platform for managing events, venues, organiz
 
 [![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://openeventsapi.com/docs)
 [![Updates](https://img.shields.io/badge/updates-changelog-blue)](https://openeventsapi.com/updates)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](./CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](./.github/CHANGELOG.md)
 
 ---
 
@@ -62,7 +62,7 @@ Want to add your project? [Open an issue](https://github.com/C9Group/open-events
 
 ## Changelog
 
-View the complete changelog: [CHANGELOG.md](./CHANGELOG.md)
+View the complete changelog: [CHANGELOG.md](./.github/CHANGELOG.md)
 
 ## Documentation
 
